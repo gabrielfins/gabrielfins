@@ -1,4 +1,4 @@
-## Salve 👋
+## 👋 Salve
 
 - Me chamo Gabriel
 - Sou Técnico em T.I.
@@ -8,7 +8,7 @@
 
 <br>
 
-## Estatísticas
+## 🚀 Estatísticas
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfins&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielfins&theme=github_dark&layout=compact&langs_count=6&hide_border=true">
@@ -16,7 +16,7 @@
 
 <br>
 
-## Habilidades
+## 🏅 Habilidades
 <div>
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html">
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css">
@@ -33,7 +33,7 @@
 
 <br>
 
-## Social
+## 🌎 Social
 <div>
   <a href="https://instagram.com/gabrielfins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gabrielfins" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
