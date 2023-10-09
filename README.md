@@ -1,10 +1,11 @@
 ## 👋 Salve
 
-- Me chamo Gabriel
-- Sou Técnico em T.I.
-- Aluno de Sistemas de Informação
-- Atualmente, trabalho com Angular
-- Especialidade em UI/UX e frontend
+- 📌 RJ - Brasil;
+- 🎓 Técnico em T.I.;
+- 👨‍🎓 Cursando Sistemas de Informação;
+- 💼 Trabalhando com Angular;
+- 🖌️ Foco principalmente em UI/UX e frontend;
+- 📫 contato.gabrielfins@gmail.com
 
 <br>
 
