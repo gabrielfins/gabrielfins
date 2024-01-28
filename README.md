@@ -24,7 +24,7 @@
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript">
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript">
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#">
-  <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/angular/angular-original.svg" alt="angular">
+  <img width="40" height="30" src="https://raw.githubusercontent.com/gabrielfins/devicon/develop/icons/angular/angular-original.svg" alt="angular">
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react">
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass">
   <img width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma">
